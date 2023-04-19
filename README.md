@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **my website :soon...**
 - 
--  🏆 Pro player at **Rainbow six sige by tom clancy's**
+-  🏆 Pro player at **tom clancy's Rainbow six sige**
 
    <p align="left">
       <a href="https://discord.gg/n8AgVxah">
