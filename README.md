@@ -1,9 +1,19 @@
 ![1](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)
 # ‍💻 Kr-Kayro
 
-**`Kr-Kayro (Developer/Creator)`**
+**`Kr-Kayro (Developer/Hacker)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+- 🔭 I’m currently working on **improving my skills**
+
+- 💬 Ask me about **Reverse Engineering**
+
+- 👯 I’m looking to collaborate on **Reverse Engineering & Cyber-security**
+
+- 🌱 I’m currently learning **Cyber-security**
+
+- 📫 How to reach me **kayro@kayro.co.il**
+
+- 👨‍💻 All of my projects are available at **soon**
 
    <p align="left">
       <a href="https://discord.gg/n8AgVxah">
