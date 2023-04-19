@@ -13,7 +13,6 @@
 - 📫 How to reach me **kayro@kayro.co.il**
 
 - 👨‍💻 All of my projects are available at **my website :soon...**
-- 
 -  🏆 Pro player at **tom clancy's Rainbow six sige**
 
    <p align="left">
