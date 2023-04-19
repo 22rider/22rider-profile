@@ -41,4 +41,4 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-kayro&show_icons=true&locale=en" alt="kr-kayro" /></p>
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
