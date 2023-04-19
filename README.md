@@ -13,6 +13,8 @@
 - 📫 How to reach me **kayro@kayro.co.il**
 
 - 👨‍💻 All of my projects are available at **my website :soon...**
+- 
+-  🏆 Pro player at **Rainbow six sige by tom clancy's**
 
    <p align="left">
       <a href="https://discord.gg/n8AgVxah">
