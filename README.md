@@ -27,8 +27,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-- ### 📊 Statsh
+- ### 📊 Stats
 
-![Forrest's GitHub stats]([https://github.com/kr-kayro/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github.com/kr-kayro))
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
