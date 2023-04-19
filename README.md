@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kayro@kayro.co.il**
 
-- 👨‍💻 All of my projects are available at **soon**
+- 👨‍💻 All of my projects are available at **my website :soon...**
 
    <p align="left">
       <a href="https://discord.gg/n8AgVxah">
