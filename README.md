@@ -31,4 +31,4 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr-kayro&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-kayro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
