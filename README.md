@@ -34,6 +34,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 - ### 📊 Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=kr-kayro&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=22rider&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-kayro&show_icons=true&locale=en" alt="kr-kayro" /></p>
